@@ -15,3 +15,5 @@ call isBadVersion(5) -> true
 call isBadVersion(4) -> true
 
 Then 4 is the first bad version. 
+
+https://leetcode.com/problems/first-bad-version/
